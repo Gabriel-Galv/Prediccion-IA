@@ -4,7 +4,7 @@ Este proyecto implementa un modelo de **regresión lineal simple** utilizando **
 --- 
 
 ## ⚙️ Tecnologías utilizadas 
-- Python 3.x 
+- Python 3.12
 - NumPy 
 - TensorFlow / Keras 
 --- 
